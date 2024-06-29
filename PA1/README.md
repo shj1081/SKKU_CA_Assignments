@@ -1,5 +1,8 @@
-# Computer Architecture PA1
-RISC-V Binary Code
+# Computer Architecture PA1 : RISC-V Binary Code
+
+## Grade
+
+full score
 
 ## Goal
   - Reads a binary file containing RISC-V machine code and prints the assembly representation of the code
